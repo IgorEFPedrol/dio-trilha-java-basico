@@ -1,6 +1,17 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+*<h1>ContaTerminal</h1>
+*A ContaTerminal recebe informações sobre a conta bancária do usuário e as apresenta na tela
+*<p>
+*<b>Note:</b> Leia atentamente a documentação desta classe
+*para desfrutar dos recursos oferecidos pelo autor
+*
+*@author Igor Pedrol
+*@version 1.0
+*@since 29/04/2024
+*/
 public class ContaTerminal {
 
     public static void main(String[] args) throws Exception {
